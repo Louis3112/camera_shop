@@ -9,7 +9,7 @@ The project implements various of data structure concepts, such as :
 2. Tree (used to store and manage member data)
 3. Hash Table and Collision Handling (to manage camera and lens loans)
 4. Stack (used to store and manage photographer data)
-6. Graph (give tourist destination suggestions based on book that has been borrowed)
+6. Graph (give tourist destination suggestions based on place they want to go)
 
 The project is developed using Functional programming, C++ language, runs on CLI, and only requires a minimal set of library to use (doesn't require installing any library from outside).
 
