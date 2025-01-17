@@ -1,6 +1,6 @@
 # :bangbang: **Data Structure Project for 2nd Semester**  :bangbang:
 
-##  :child: :card_index: **camera_shop** :child: :card_index:
+##  :camera: :video_camera: **camera_shop** :camera: :video_camera:
 "Our" final project for Data Structure 2nd Semester. The project is a simple CRUD management loaning camera, lens and photographer.
 The project is actually related with [graph_sby_map](https://github.com/Louis3112/graph_sby_map).
 
@@ -21,7 +21,7 @@ The project was completed by Group 7, which consists of following members :
 
 - **Adriano Emmanuel &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 23051204082 [@pachhy](https://github.com/pachhy)**
 - **Cornelius Louis Nathan  &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 23051204085 [@Louis3112](https://github.com/Louis3112)**
-- **Yakobus Octavianus Putra &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 23051204332 [@YO-SP](https://github.com/YO-SP))**
+- **Yakobus Octavianus Putra &emsp; &emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 23051204332 [@YO-SP](https://github.com/YO-SP)**
 
 ## :arrow_forward: **Installation and Usage** 
 To install this project, please proceed these steps:
